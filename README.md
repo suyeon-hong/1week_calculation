@@ -1,10 +1,10 @@
-# 목표는 취업이조
+# 환율계산기
 
-## 🚀 배포
+👉 [배포주소 바로가기](http://pleasedoit.s3.ap-northeast-2.amazonaws.com/index.html)
 
-[배포주소 바로가기](http://pleasedoit.s3.ap-northeast-2.amazonaws.com/index.html)
+<br>
 
-## 📈 디렉토리 구조
+### 📈 디렉토리 구조
 
 ```
 ├── README.md
@@ -31,8 +31,9 @@
 │   └── utils
 └── yarn.lock
 ```
+<br>
 
-## 🧐 프로젝트 빌드 및 실행 방법
+### 🧐 프로젝트 빌드 및 실행 방법
 
 1. 상단 `Code` 버튼을 눌러 레포지토리를 클론 받습니다.
 
@@ -58,6 +59,8 @@ $ yarn start
 $ yarn jest --watchAll
 ```
 
+<br>
+
 ## 공통 명세
 
 - [x] 송금액은 숫자만 입력되도록 한다.
@@ -70,8 +73,8 @@ $ yarn jest --watchAll
 
 ### 팀원
 
-- [김지영](https://github.com/Jeong-jeong)
-- [고병표](https://github.com/kokoball)
+- 김지영
+- 고병표
 
 ### 구현 명세
 
@@ -84,23 +87,19 @@ $ yarn jest --watchAll
 
 ### 데모
 
-
-
-
 | **수취국가 변경** | **에러 메세지 표시** |
 | :-: | :-: |
 | ![calc1-1](https://user-images.githubusercontent.com/68528752/151088275-473b80f5-41de-4dcd-9210-3e63013b1ee2.gif) | ![calc1-2](https://user-images.githubusercontent.com/68528752/151088821-8e464e8f-4ed0-489e-8a73-f67f9981edaf.gif) |
 
+<br>
 
-<br>
-<br>
 
 ## 2️⃣ 2번 계산기
 
 ### 팀원
 
-- [유제호](https://ludacirs.github.io/)
-- [홍수연](https://github.com/suyeon-hong)
+- 유제호
+- 홍수연
 
 ### 구현 명세
 
